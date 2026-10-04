@@ -10,7 +10,6 @@ This list is for developers who want to:
 - build applications with language models, retrieval, tools, and agents;
 - evaluate, observe, and deploy AI systems in production;
 - use coding agents to improve software engineering work.
-
 This is not a comprehensive directory of AI products. Every entry must clear an absolute quality bar for technical depth, practical value, evidence, and distinctiveness. Categories are not quotas, and a short category is better than one padded with weak choices.
 
 The list is reviewed weekly by an evidence-backed automation that independently reviews, validates, and merges small changes. See [how resources are evaluated](CURATION.md).
