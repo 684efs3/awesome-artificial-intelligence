@@ -10,7 +10,7 @@ This list is for developers who want to:
 - build applications with language models, retrieval, tools, and agents;
 - evaluate, observe, and deploy AI systems in production;
 - use coding agents to improve software engineering work.
-istinctiveness. Categories are not quotas, and a short category is better than one padded with weak choices.
+This is not a comprehensive directory of AI products. Every entry must clear an absolute quality bar for technical depth, practical value, evidence, and distinctiveness. Categories are not quotas, and a short category is better than one padded with weak choices.
 
 The list is reviewed weekly by an evidence-backed automation that independently reviews, validates, and merges small changes. See [how resources are evaluated](CURATION.md).
 
@@ -108,9 +108,9 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [OpenAI Evals](https://github.com/openai/evals): An open-source framework and registry for evaluating language models and systems.
 - [Promptfoo](https://www.promptfoo.dev/docs/): Test cases, assertions, model comparisons, and red-team checks for LLM applications.
 - [Ragas](https://docs.ragas.io/): Evaluation and experimentation for retrieval and generative AI applications.
-
 - [ModelBenchmark](https://modelbenchmark.io): Independent rankings of AI models: composite of 16 public benchmarks, prices, context windows.
-- ### Deployment and observability
+
+### Deployment and observability
 
 - [Langfuse](https://langfuse.com/docs): Tracing, evaluation, prompt management, and metrics for LLM applications.
 - [vLLM](https://docs.vllm.ai/): An inference and serving engine for language models.
