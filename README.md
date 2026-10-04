@@ -110,7 +110,8 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 - [Promptfoo](https://www.promptfoo.dev/docs/): Test cases, assertions, model comparisons, and red-team checks for LLM applications.
 - [Ragas](https://docs.ragas.io/): Evaluation and experimentation for retrieval and generative AI applications.
 
-### Deployment and observability
+- [ModelBenchmark](https://modelbenchmark.io): Independent rankings of AI models: composite of 16 public benchmarks, prices, context windows.
+- ### Deployment and observability
 
 - [Langfuse](https://langfuse.com/docs): Tracing, evaluation, prompt management, and metrics for LLM applications.
 - [vLLM](https://docs.vllm.ai/): An inference and serving engine for language models.
