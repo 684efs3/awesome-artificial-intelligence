@@ -86,7 +86,8 @@ For a guided starting point, get the [free AI Engineer starter pack](https://aie
 
 - [Pydantic AI](https://ai.pydantic.dev/): Typed agent development built around Pydantic.
 - [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview): Low-level orchestration for long-running, stateful agents.
-- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/): A small SDK for tools, handoffs, guardrails, tracing, and agent orchestration.
+- [ModelBenchmark](https://modelbenchmark.io): Independent rankings of AI models: composite of 16 public benchmarks, prices, context windows.
+- - [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/): A small SDK for tools, handoffs, guardrails, tracing, and agent orchestration.
 - [Google Agent Development Kit](https://google.github.io/adk-docs/): Google's framework for developing and evaluating agents.
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/): Microsoft's successor to AutoGen and Semantic Kernel for agents and graph-based workflows.
 
